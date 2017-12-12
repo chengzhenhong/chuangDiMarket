@@ -14,8 +14,16 @@
           <option name="url" value="https://github.com/chengzhenhong/chuang-di-market.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chengzhenhong/gitLearning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chengzhenhong/gitHubLearning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\chuang-di-market-git" />
+    <option name="cloneParentDir" value="F:\learningGit\gitLearning" />
   </component>
 </application>
