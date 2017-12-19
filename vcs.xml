@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/chengzhenhong/my-vue-project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/epicmaxco/vuestic-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\myVueProject" />
+    <option name="cloneParentDir" value="F:\workSpace" />
   </component>
 </application>
