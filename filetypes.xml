@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="adminLogin.vue" type="PLAIN_TEXT" />
+      <mapping pattern="readme.md" type="PLAIN_TEXT" />
       <mapping ext="hmtl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
