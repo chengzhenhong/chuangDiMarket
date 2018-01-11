@@ -1,0 +1,68 @@
+.clear-fix{
+  clear: both;
+}
+.text-center{
+  text-align: center;
+}
+.my-form{
+  width:90%;
+  margin: 0 auto ;
+  border: 1px solid #009688;
+}
+.my-form-title{
+  padding: 15px 12px;
+  background-color: #009688;
+  color: #FFFFFF;
+  text-align: center;
+}
+.title-left{
+  line-height:25px;
+  float: left;
+}
+.title-right{
+  float: right;
+}
+.title-right button{
+  padding: 4px 10px;
+  background-color: #1ec260;
+  border: none;
+  border-radius:4px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.my-form-content{
+  padding:15px 12px;
+}
+.my-form-item{
+  margin: 10px 0;
+}
+.my-form-item span,
+.my-form-item input,
+.my-form-item select{
+  display: block;
+}
+.my-form-item span{
+  padding: 12px 0;
+}
+.my-form-item input,
+.my-form-item select{
+  width:95%;
+  height: 32px;
+  line-height: 30px;
+  font-size: 18px;
+  border:none;
+  border-radius: 3px;
+  padding: 0px 10px;
+  outline: none;
+}
+.my-form-item button{
+  display: block;
+  width: 120px;
+  margin:0 auto;
+  background-color: #4ae387;
+  line-height: 25px;
+  border:none;
+  color: #FFFFFF;
+  border-radius:3px;
+  cursor: pointer;
+}

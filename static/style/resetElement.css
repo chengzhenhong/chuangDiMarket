@@ -1,0 +1,72 @@
+body{
+  background-color: #eceef1;
+}
+/*后台首页顶部样式*/
+.my-el-header{
+  padding: 0;
+  background-color: #23262E;
+  color: #4ae387;
+  height: 75px!important;
+  border-bottom:5px solid #4ae387;
+}
+/*后台首页左侧菜单导航*/
+.my-el-aside{
+  width: 220px!important;
+  padding-bottom: 150px;
+  background-color: #393D49;
+  border:none;
+  margin: 20px 0 0 25px;
+}
+.my-el-menu,
+.my-el-menu-item-group{
+  background-color: #393D49;
+  border:none;
+}
+.my-el-menu-item,
+.my-el-submenu .el-submenu__title{
+  color: #ffffff;
+}
+.my-el-menu-item-group .my-el-menu-item{
+  color: #8a8a91;
+}
+.my-el-menu-item a{
+  color: inherit;
+  text-decoration: none;
+}
+.my-el-menu-item:hover,
+.my-el-submenu .el-submenu__title:hover{
+  background-color: #4e5465 ;
+  color: #ffffff;
+}
+.my-el-menu-item.is-active,
+.my-el-submenu .el-submenu__title.is-active{
+  background-color: #009688 ;
+  color: #FFFFFF;
+}
+
+/*会员积分卡片样式*/
+/*卡片样式*/
+.my-el-card{
+  margin-top: 15px;
+}
+.my-el-card .el-card__header{
+  background-color: #009688 ;
+  text-align: center;
+  color: #ffffff;
+}
+.my-el-card .el-card__body{
+  min-height:100px;
+}
+
+/*table样式*/
+.my-el-table th{
+  text-align: center;
+}
+.my-el-table td .cell{
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
